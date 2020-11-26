@@ -1,3 +1,5 @@
+Ref: https://www.kaggle.com/shasun/tool-wear-detection-in-cnc-mill?select=experiment_01.csv
+
 CNC MILLING DATASET - UNIVERSITY OF MICHIGAN SMART LAB
 
 April 2018
